@@ -9,7 +9,6 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [18.x, 20.x]
@@ -29,3 +28,4 @@ jobs:
 
       - name: Run tests
         run: npm test
+
