@@ -1,0 +1,23 @@
+{
+  "name": "devops-math-operations",
+  "version": "1.0.0",
+  "description": "Atividade da aula de DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitor-F-M-Pereira/devops-math-operations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitor-F-M-Pereira/devops-math-operations/issues"
+  },
+  "homepage": "https://github.com/Vitor-F-M-Pereira/devops-math-operations#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
